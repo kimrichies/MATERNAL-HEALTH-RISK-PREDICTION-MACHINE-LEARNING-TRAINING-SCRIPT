@@ -1,0 +1,2 @@
+# MATERNAL-HEALTH-RISK-PREDICTION-MACHINE-LEARNING-TRAINING-SCRIPT
+This script trains a neural network to predict maternal health risk from six clinical vitals — and classifies each patient into one of three risk categories; Low, Moderate Risk or High.  The trained model is exported as a TensorFlow Lite (.tflite) file for embedding directly inside the Android application without any internet connection.
